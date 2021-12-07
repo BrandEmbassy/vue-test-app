@@ -3,19 +3,21 @@ Prerequisities
 - NPM/Yarn installed
 - (optional) Quasar installed https://quasar.dev/quasar-cli/installation
 
-## Install the dependencies
+## Run the app
+
+1. Install the dependencies
 ```bash
 yarn
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+2. Start the app in development mode (hot-code reloading, error reporting, etc.)
 ```bash
 quasar dev
 // or
 yarn start
 ```
 
-Navigate to `http://localhost:8080` in your browser (should have opened automatically after build)
+3. Navigate to `http://localhost:8080` in your browser (should have opened automatically after build)
 
 You should see this
 
