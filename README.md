@@ -14,8 +14,3 @@ quasar dev
 // or
 yarn start
 ```
-
-### Lint the files
-```bash
-yarn run lint
-```
