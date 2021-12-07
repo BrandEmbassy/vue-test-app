@@ -1,5 +1,5 @@
 Prerequisities
-- Node installed (v12+)
+- Node installed (version 14)
 - NPM/Yarn installed
 - (optional) Quasar installed https://quasar.dev/quasar-cli/installation
 
